@@ -15,7 +15,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "23.10.3.0",
-  "projectVersion": "1.0.0",
+  "projectVersion": "1.0.174140224",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
@@ -46,7 +46,7 @@
     },
     "fileInfoCollection": [
       {
-        "editingStatus": "InProgress",
+        "editingStatus": "Publishable",
         "testCaseId": "5c68e595-30ae-45c2-89f5-e2b43b575df1",
         "testCaseType": "TestCase",
         "executionTemplateInvokeIsolated": false,
